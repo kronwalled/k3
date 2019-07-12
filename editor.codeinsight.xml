@@ -1,0 +1,77 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="PARAMETER_INFO_DELAY" value="0" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="0" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="ADD_IMPORTS_ON_PASTE" value="1" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="*.backport.*" />
+    <EXCLUDED_PACKAGE NAME="antlr.*" />
+    <EXCLUDED_PACKAGE NAME="com.beust.*" />
+    <EXCLUDED_PACKAGE NAME="com.ctc.*" />
+    <EXCLUDED_PACKAGE NAME="com.drew.*" />
+    <EXCLUDED_PACKAGE NAME="com.google.common.base.Charsets" />
+    <EXCLUDED_PACKAGE NAME="com.healthmarketscience.*" />
+    <EXCLUDED_PACKAGE NAME="com.lowagie.*" />
+    <EXCLUDED_PACKAGE NAME="com.mchange.*" />
+    <EXCLUDED_PACKAGE NAME="com.mysql.*" />
+    <EXCLUDED_PACKAGE NAME="com.opensymphony.oscache.util.*" />
+    <EXCLUDED_PACKAGE NAME="com.opensymphony.xwork2.inject.Inject" />
+    <EXCLUDED_PACKAGE NAME="com.opensymphony.xwork2.interceptor.annotations.*" />
+    <EXCLUDED_PACKAGE NAME="com.silbergrau.aop.interception.After" />
+    <EXCLUDED_PACKAGE NAME="com.silbergrau.aop.interception.Before" />
+    <EXCLUDED_PACKAGE NAME="com.silbergrau.aop.interfaces.adapter.blue.After" />
+    <EXCLUDED_PACKAGE NAME="com.silbergrau.aop.interfaces.adapter.blue.Before" />
+    <EXCLUDED_PACKAGE NAME="com.silbergrau.geo.*" />
+    <EXCLUDED_PACKAGE NAME="com.silbergrau.kernel.Arrays" />
+    <EXCLUDED_PACKAGE NAME="com.sun.*" />
+    <EXCLUDED_PACKAGE NAME="com.uwyn.*" />
+    <EXCLUDED_PACKAGE NAME="edu.*" />
+    <EXCLUDED_PACKAGE NAME="freemarker.*" />
+    <EXCLUDED_PACKAGE NAME="groovyjarjarantlr.*" />
+    <EXCLUDED_PACKAGE NAME="hidden.*" />
+    <EXCLUDED_PACKAGE NAME="io.*" />
+    <EXCLUDED_PACKAGE NAME="java.awt.*" />
+    <EXCLUDED_PACKAGE NAME="javax.faces.bean.*" />
+    <EXCLUDED_PACKAGE NAME="javax.swing.*" />
+    <EXCLUDED_PACKAGE NAME="junit.framework.*" />
+    <EXCLUDED_PACKAGE NAME="ma.*" />
+    <EXCLUDED_PACKAGE NAME="opennlp.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.codec.binary.StringUtils" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.collections.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.compress.utils.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.exec.util.StringUtils" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.io.Charsets" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.lang.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.deltaspike.core.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.ecs.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.hadoop.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.lucene.queryparser.flexible.core.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.poi.util.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.solr.common.StringUtils" />
+    <EXCLUDED_PACKAGE NAME="org.apache.tomcat.util.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.uima.*" />
+    <EXCLUDED_PACKAGE NAME="org.bouncycastle.util.*" />
+    <EXCLUDED_PACKAGE NAME="org.codehaus.*" />
+    <EXCLUDED_PACKAGE NAME="org.eclipse.jetty.*" />
+    <EXCLUDED_PACKAGE NAME="org.h2.*" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.constraints.NotBlank" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.constraints.NotEmpty" />
+    <EXCLUDED_PACKAGE NAME="org.hsqldb.*" />
+    <EXCLUDED_PACKAGE NAME="org.jboss.weld.*" />
+    <EXCLUDED_PACKAGE NAME="org.jsoup.helper.StringUtil" />
+    <EXCLUDED_PACKAGE NAME="org.jvnet.jaxb2_commons.*" />
+    <EXCLUDED_PACKAGE NAME="org.modeshape.*" />
+    <EXCLUDED_PACKAGE NAME="org.mp4parser.*" />
+    <EXCLUDED_PACKAGE NAME="org.odmg.*" />
+    <EXCLUDED_PACKAGE NAME="org.omnifaces.cdi.ViewScoped" />
+    <EXCLUDED_PACKAGE NAME="org.restlet.engine.*" />
+    <EXCLUDED_PACKAGE NAME="org.springframework.*" />
+    <EXCLUDED_PACKAGE NAME="org.terracotta.*" />
+    <EXCLUDED_PACKAGE NAME="sun.*" />
+    <EXCLUDED_PACKAGE NAME="ucar.*" />
+  </component>
+</application>
